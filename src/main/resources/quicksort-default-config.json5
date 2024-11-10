@@ -17,7 +17,7 @@
       'baseBlockId': 'minecraft:diamond_block',
 
       // range at which target chests will be detected
-      'range': 10,
+      'range': 64,
 
       // number of ticks between items
       'cooldownTicks': 3,
@@ -46,7 +46,7 @@
       'baseBlockId': 'minecraft:emerald_block',
 
       // range at which target chests will be detected
-      'range': 5
+      'range': 32
     }
 
   ],
